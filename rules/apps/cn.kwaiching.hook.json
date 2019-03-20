@@ -8,7 +8,7 @@
   ],
   "simple_mounts": [
     {
-      "id": "wantyourlife3000",
+      "id": "want_your_life_3000",
       "source_package": "cn.kwaiching.hook",
       "target_package": "com.ss.android.ugc.trill",
       "paths": [
@@ -17,10 +17,10 @@
     }
   ],
   "simple_mounts_descriptions": {
-    "wantyourlife3000": {
-      "zh_CN": "修复 <b>Nevo 微信图片预览插件</b> 无法预览聊天图片",
-      "zh": "修復 <b>Nevo WeChat Image Preview Plugin</b> 無法預覽聊天圖片",
-      "en": "Fix <b>Nevo WeChat Image Preview Plugin</b> can't preview images"
+    "want_your_life_3000": {
+      "zh_CN": "修 <b>Nevo 微信图片预览插件</b> 无法预览聊天图片",
+      "zh": "修 <b>Nevo WeChat Image Preview Plugin</b> 無法預覽聊天圖片",
+      "en": "F <b>Nevo WeChat Image Preview Plugin</b> can't preview images"
     }
   }
 }
